@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6d206d86a4682d627d3fdefaa71a8d20aa3fb554\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fbc4431498798b3e3f4c3b015e710db3d544c66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\alipaySdk-20160516.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dbd15e12806634fb809af9b565d1cf22dca9d2c">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20160516_f4ffedd4cb03b36f36d6b7d1566895f7393797d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\704af4a018c70fa5bf9827be0fc4a1b6b2c06aa7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbba9be49557afc65f2809e0cd4aafcc547d2817">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0d6f237d19ea260a06bd1d6f99159256d99e89e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\AMap2DMap_2.9.2_AMapSearch_3.6.1_AMapLocation_3.1.0_20161122.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="503d40478f4ddc26a73b4b151741061af2c63d06">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\AMap2DMap_2.9.2_AMapSearch_3.6.1_AMapLocation_3.1.0_20161122_d6cbd71e1f81b3062e3c364bd2102f77b4ff62ab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\8d828c506c3ab048330aa3b931eb1e35dbd46621\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5b30cc125ef90efcaa7bdf1764bdabfdd9ab0fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\eventbus-3.0.0_e4a9112550a50ba8f4709ef8d90eeb6d9eb4a492\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_e4a9112550a50ba8f4709ef8d90eeb6d9eb4a492.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\9774fded9a48890e8d25df6894b6b72bcfd6323d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_13fb62a023367a2ed655872c0d6b02c3fded26e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\alipaySdk-20160516.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6dbd15e12806634fb809af9b565d1cf22dca9d2c">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\alipaySdk-20160516_f4ffedd4cb03b36f36d6b7d1566895f7393797d4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\AMap2DMap_2.9.2_AMapSearch_3.6.1_AMapLocation_3.1.0_20161122.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="503d40478f4ddc26a73b4b151741061af2c63d06">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\AMap2DMap_2.9.2_AMapSearch_3.6.1_AMapLocation_3.1.0_20161122_d6cbd71e1f81b3062e3c364bd2102f77b4ff62ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4faa4e22f05c76c37ef3dbf6036c4f7c55d08bf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c919b54ce2a1808176a0c1e83e3304656e266a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\61f095be954969c8bbca3e163fa796ad13556502\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0017e39fb3524d3fe4204646d4ed4c0913cd31b">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c2795cd07d5523e94477e6689aee3053cba08d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\14900218012faf5695fd63fc921b631f09229a94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a619246be9154909d1d93f5de8618225ddef418">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8cd829fb96da12c31c8018ef6318520212f017f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\dom4j-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\dom4j-1.6.1_e61fc309fd195532d99ad17c68bbe547721b5cb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\afinal\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60ce3576d19fdfd6a0c9bc8fd24fb2beedddc03b">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\classes_9771c256de035b71c696c5135c1be30a11747470.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\dom4j-1.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\dom4j-1.6.1_e61fc309fd195532d99ad17c68bbe547721b5cb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_87a6c581d28815fef0cc9f83c7340d51a2d4ac37.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.5_5c037910d6711c0ac40afa94f7606567a806eb7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_87a6c581d28815fef0cc9f83c7340d51a2d4ac37\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5_5c037910d6711c0ac40afa94f7606567a806eb7d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\35f5620bf291a0da06d0a2060689a95a315bb296\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="31167beed3003d37afa2686777d1293d6c011f38">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a353ece57aca1b37c8aed869b0b77c3350c22c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\3a3109c6a2c55285fce7e2fc22a313f23361803d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c76d2d4f95acd812d3e2e649ed1dc56ce387977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_287eae6ab8f6ae5c807716f356e703ff896b122a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\libammsdk_550b459166e64b8b8822e0acf5322f5a480ff017.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\704af4a018c70fa5bf9827be0fc4a1b6b2c06aa7\output\jars\libs\GetuiSDK2.9.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba30d99b12b4b79e6304f06db9e4f4a57515f17f">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\GetuiSDK2.9.5.0_5c9812783a674e4d12c2621f7650870c5bb2cac2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\2\libammsdk_550b459166e64b8b8822e0acf5322f5a480ff017\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_287eae6ab8f6ae5c807716f356e703ff896b122a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_94df7401f501bd9bad33755ab1fdce55dcba28ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33e5c950dee92f79cf448fd08e298e3e1500b812">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a67671fef625301e5457a95d9ee01416802075e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\9f0310317293c663bd6481bf98459aad569ad8ec\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1235ac562546c02a7511f29b45afa751a11807a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\6023d64ca5dd9a6ce4cf908b5741e6417278feab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Administrator\Desktop\DKDJForQS-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c41bd37da5f5d067e7706c75f14a368b8bd46e30\classes.dex" />
+    </item>
+
+</items>
