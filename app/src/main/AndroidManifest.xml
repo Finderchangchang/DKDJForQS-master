@@ -77,7 +77,7 @@
         <activity android:name=".ui.ChangePwdActivity" />
         <activity android:name=".ui.TakePhotoActivity" />
         <activity
-            android:name=".wxapi.WXPayEntryActivity"
+            android:name=".hei.wxapi.WXPayEntryActivity"
             android:exported="true"
             android:screenOrientation="portrait" />
         <activity

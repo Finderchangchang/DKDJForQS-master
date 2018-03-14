@@ -1,4 +1,4 @@
-package liuliu.qs.wxapi;
+package liuliu.qs.hei.wxapi;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -13,7 +13,6 @@ import com.tencent.mm.sdk.openapi.IWXAPIEventHandler;
 import com.tencent.mm.sdk.openapi.WXAPIFactory;
 
 import liuliu.qs.R;
-import liuliu.qs.config.Key;
 import liuliu.qs.method.Utils;
 import liuliu.qs.ui.PayActivity;
 
